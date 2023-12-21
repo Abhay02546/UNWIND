@@ -2,7 +2,7 @@
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-
+  cursor: none;
 }
 
 body{
@@ -17,12 +17,10 @@ body{
 
 #page{
   height: 100vh;
-  cursor: none;
 }
 #page2{
   height: 80vh;
   justify-content: center;
-  cursor: none;
 }
 
 #navp{
@@ -244,7 +242,6 @@ width: 100%;
   display: flex;
   justify-content: left;
   align-items: center;
-  cursor: none;
 }
 
 #contentbox1{
@@ -343,7 +340,6 @@ transition: 0.5s ease all;
   height: 100vh;
   display: flex;
   justify-content: center;
-  cursor: text;
 }
 
 #p4-text{
